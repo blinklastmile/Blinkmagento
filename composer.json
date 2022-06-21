@@ -10,9 +10,7 @@
             "email": "info@mage2gen.com"
         }
     ],
-    "require": {
-        "php": ">7.2.0",
-        "magento/framework": ">100.0.4"},
+    "require": {},
     "autoload": {
         "files": [
             "registration.php"
