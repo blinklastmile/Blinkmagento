@@ -1,7 +1,7 @@
 {
     "name": "blinklastmile/module-blinkmagento",
     "description": "Blink module to provide same day delivery",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "magento2-module",
     "license": "GPL-3.0",
     "authors": [
